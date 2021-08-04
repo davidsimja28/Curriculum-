@@ -14,3 +14,4 @@
 - Se modificó el diseño de Inicio, Objetivo y formación
 - Se añadieron cards en el apartado de experiencia laboral
 - Se agregaron imágenes en el apartado de formación académica
+- Se agregaron Cards en el apartado de Habilidades
