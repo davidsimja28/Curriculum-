@@ -13,3 +13,4 @@
 - Se trabajó el diseño de experiencia laboral y habilidades
 - Se modificó el diseño de Inicio, Objetivo y formación
 - Se añadieron cards en el apartado de experiencia laboral
+- Se agregaron imágenes en el apartado de formación académica
