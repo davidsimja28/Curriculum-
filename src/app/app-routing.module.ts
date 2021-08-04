@@ -1,3 +1,5 @@
+import { ContactoComponent } from './Pages/contacto/contacto.component';
+import { HabilidadesComponent } from './Pages/habilidades/habilidades.component';
 import { ExperienciaComponent } from './Pages/experiencia/experiencia.component';
 import { FormacionComponent } from './Pages/formacion/formacion.component';
 import { ObjetivoComponent } from './Pages/objetivo/objetivo.component';
@@ -11,6 +13,9 @@ const routes: Routes = [
   {path: 'inicio', component: InicioComponent},
   {path: 'objetivo', component: ObjetivoComponent},
   {path: 'formacion', component: FormacionComponent},
+  {path: 'experiencia', component: ExperienciaComponent},
+  {path: 'habilidades', component: HabilidadesComponent},
+  {path: 'contacto', component: ContactoComponent},
   {path: 'experiencia', component: ExperienciaComponent},
 
 ];

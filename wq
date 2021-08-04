@@ -1,0 +1,53 @@
+[33mcommit 7c999e730ee02e7cc9f6c80f9f9ff0c42b5dbc4f[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 22:15:59 2021 -0500
+
+    Se creó el componente de Contacto
+
+[33mcommit 66212e0ec9dd1fd4a6aae1a593d71e36c9bf3cbe[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 22:14:50 2021 -0500
+
+    Se creó el componente de Experiencia laboral y habilidades
+
+[33mcommit a1b7d945e3fb24a18a9bbcf29f6efbd1744348b8[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 22:12:13 2021 -0500
+
+    Se creó el componente de Objetivo y Formación
+
+[33mcommit 3c055c3f948f5033100515f78242ba36fe5d308f[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 21:48:22 2021 -0500
+
+    Se agregó diseño al navbar y el footer
+
+[33mcommit b96a5d2e8737cfec47a694525fa3def6bd07ff47[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 21:42:24 2021 -0500
+
+    Se agregó diseño al navbar y el footer
+
+[33mcommit 92247bb161933e3133eda728d6225ff266106513[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 20:29:08 2021 -0500
+
+    Se añadió elselector de navbar y footer al componente app.component.html
+
+[33mcommit e55b32e4207e650856ac72739be3e9d68343acb0[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 20:25:29 2021 -0500
+
+    Se creó el componente de Footer
+
+[33mcommit 19eb4243784f08fc135a344da6e032974040665a[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 20:24:03 2021 -0500
+
+    Se añadió el componente navbar
+
+[33mcommit ddee165e479ea1588a4e5218ae8c13ef1f0fa370[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: David <20183l301023@utcv.edu.mx>
+Date:   Tue Aug 3 20:16:51 2021 -0500
+
+    first commit

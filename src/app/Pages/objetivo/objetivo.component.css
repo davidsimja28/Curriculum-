@@ -1,0 +1,25 @@
+:host{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+h3{
+  margin-top: 8px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img_redonda {
+  width: 200px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -9,3 +9,4 @@
 - Se creó el componente de Objetivo y Formación
 - Se creó el componente de Experiencia laboral y habilidades
 - Se creó el componente de Contacto
+- Se incluyó el Objetivo y la formación académica
