@@ -12,3 +12,4 @@
 - Se incluyó el Objetivo y la formación académica
 - Se trabajó el diseño de experiencia laboral y habilidades
 - Se modificó el diseño de Inicio, Objetivo y formación
+- Se añadieron cards en el apartado de experiencia laboral
