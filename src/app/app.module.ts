@@ -8,6 +8,8 @@ import { NavbarComponent } from './Shared/navbar/navbar.component';
 import { FooterComponent } from './Shared/footer/footer.component';
 import { ObjetivoComponent } from './Pages/objetivo/objetivo.component';
 import { FormacionComponent } from './Pages/formacion/formacion.component';
+import { ExperienciaComponent } from './Pages/experiencia/experiencia.component';
+import { HabilidadesComponent } from './Pages/habilidades/habilidades.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { FormacionComponent } from './Pages/formacion/formacion.component';
     NavbarComponent,
     FooterComponent,
     ObjetivoComponent,
-    FormacionComponent
+    FormacionComponent,
+    ExperienciaComponent,
+    HabilidadesComponent
   ],
   imports: [
     BrowserModule,

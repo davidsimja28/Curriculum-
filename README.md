@@ -7,3 +7,4 @@
 - Se añadió elselector de navbar y footer al componente app.component.html
 - Se agregó diseño al navbar y el footer
 - Se creó el componente de Objetivo y Formación
+- Se creó el componente de Experiencia laboral y habilidades
