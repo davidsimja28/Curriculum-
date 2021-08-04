@@ -13,13 +13,15 @@ p {
   margin-top: 5px;
   font-size: 20px;
   text-align: justify;
+}
+
+.img_redonda {
+  width: 150px;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
 }
 
-.img_redonda {
-  width: 200px;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
+.card {
+  margin-top: 10px;
 }

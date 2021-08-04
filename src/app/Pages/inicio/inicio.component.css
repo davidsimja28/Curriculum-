@@ -19,5 +19,9 @@ img {
 p {
   margin-top: 5px;
   font-size: 20px;
-  text-align: center;
+  text-align: left;
+}
+
+.card {
+  margin-top: 10px;
 }
