@@ -5,3 +5,4 @@
 - Se creó el componente de Navbar 
 - Se creó el componente de Footer
 - Se añadió elselector de navbar y footer al componente app.component.html
+- Se agregó diseño al navbar y el footer
