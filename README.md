@@ -15,3 +15,4 @@
 - Se añadieron cards en el apartado de experiencia laboral
 - Se agregaron imágenes en el apartado de formación académica
 - Se agregaron Cards en el apartado de Habilidades
+- Se añadió la paquetería de iconos FONT AWESOME para añadir iconos a la interfaz

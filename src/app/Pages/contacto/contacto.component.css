@@ -1,3 +1,52 @@
 h3{
   margin-top: 8px;
 }
+h3{
+  margin-top: 8px;
+}
+
+:host{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+h3{
+  margin-top: 8px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.img_redonda {
+  width: 150px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+#child1{
+  color: #094293;
+}
+
+#child2{
+  color: #1b682d;
+}
+
+#child3{
+  color: #b32735;
+}
+
+#child4{
+  color: #fff;
+}
+
+
